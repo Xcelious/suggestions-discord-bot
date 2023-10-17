@@ -1,0 +1,10 @@
+{
+    "name": "discord.js",
+    "dependencies": {
+        "discord.js": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Xcelious/suggestions-discord-bot.git"
+    }
+}
